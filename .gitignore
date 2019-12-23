@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Doc
-.pptx
-.zip
-.ttf
+/.pptx
+/.zip
+/.ttf
