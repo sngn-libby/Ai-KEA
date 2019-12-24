@@ -132,3 +132,8 @@ dmypy.json
 /.pptx
 /.zip
 /.ttf
+model_checkpoint/
+/.h5
+.h5
+/.hdf5
+.hdf5
